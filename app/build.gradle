@@ -74,7 +74,7 @@ dependencies {
     implementation 'androidx.appcompat:appcompat:1.6.1'
     implementation "androidx.annotation:annotation:1.6.0"
     implementation 'com.google.android.material:material:1.9.0'
-    implementation 'com.google.guava:guava:31.1-jre'
+    implementation 'com.google.guava:guava:32.0.0-jre'
 
     implementation 'com.github.HardcodedCat.termux-monet:termux-shared:0.118.0-31'
     // Use if below libraries are published locally by termux-app with `./gradlew publishReleasePublicationToMavenLocal` and used with `mavenLocal()`.
